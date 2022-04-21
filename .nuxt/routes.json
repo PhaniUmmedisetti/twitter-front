@@ -1,0 +1,44 @@
+[
+  {
+    "name": "createTweet",
+    "path": "/createTweet",
+    "component": "C:\\\\Users\\\\Nspira\\\\Desktop\\\\twitter_frontt\\\\pages\\\\createTweet.vue",
+    "chunkName": "pages/createTweet",
+    "_name": "_70924194"
+  },
+  {
+    "name": "Profile",
+    "path": "/Profile",
+    "component": "C:\\\\Users\\\\Nspira\\\\Desktop\\\\twitter_frontt\\\\pages\\\\Profile.vue",
+    "chunkName": "pages/Profile",
+    "_name": "_25a761c8"
+  },
+  {
+    "name": "Register",
+    "path": "/Register",
+    "component": "C:\\\\Users\\\\Nspira\\\\Desktop\\\\twitter_frontt\\\\pages\\\\Register.vue",
+    "chunkName": "pages/Register",
+    "_name": "_39b012d8"
+  },
+  {
+    "name": "UserHome",
+    "path": "/UserHome",
+    "component": "C:\\\\Users\\\\Nspira\\\\Desktop\\\\twitter_frontt\\\\pages\\\\UserHome.vue",
+    "chunkName": "pages/UserHome",
+    "_name": "_039cd88a"
+  },
+  {
+    "name": "tweet-id",
+    "path": "/tweet/:id?",
+    "component": "C:\\\\Users\\\\Nspira\\\\Desktop\\\\twitter_frontt\\\\pages\\\\tweet\\\\_id.vue",
+    "chunkName": "pages/tweet/_id",
+    "_name": "_0fafb60c"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\Nspira\\\\Desktop\\\\twitter_frontt\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_439afa51"
+  }
+]

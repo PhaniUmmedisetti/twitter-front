@@ -1,0 +1,17 @@
+{
+  "Header": {
+    "description": "Auto imported from components/Header.vue"
+  },
+  "Header2": {
+    "description": "Auto imported from components/Header2.vue"
+  },
+  "HeaderMain": {
+    "description": "Auto imported from components/HeaderMain.vue"
+  },
+  "LoginForm": {
+    "description": "Auto imported from components/LoginForm.vue"
+  },
+  "Register": {
+    "description": "Auto imported from components/Register.vue"
+  }
+}
